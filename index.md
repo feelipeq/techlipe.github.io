@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Bem vindo ao Guia Completo da Elastic Stack
 
-You can use the [editor on GitHub](https://github.com/feelipeq/techlipe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos da Elastic Stack, todo em Português do Brasil.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Publico Alvo: Interessados em aprender sobre a Stack de ferramentas da Elastic, independente do nível de conhecimento prévio.
 
-### Markdown
+Objetivo: Formar pessoas com as tecnologias, desde um nível de iniciante até um nível mais avançado, trazendo os conceitos/problemas relacionados a prova de Engenheiro Certificado.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Como está distribuido o Material ?
+
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+* Documentação em formato de artigos no medium
+* Série - Rasgando o Bit com Elastic (Youtube)
+* Série - Resolvendo problemas com Elastic (Youtube)
+* Série - Curiosidades da Elastic (Youtube)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para mais detalhes, acessar a página individual de cada mini-projeto abaixo!
 
-### Jekyll Themes
+### O Guia Completo da Elastic Stack - Documentação
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/feelipeq/techlipe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Disponível no Medium, o Guia completo da Elastic Stack está organizado em seções divididos da seguinte forma:
 
-### Support or Contact
+## Elasticsearch
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+0.0 — Artigos de Apoio
+1.0 — Introdução e Índices
+2.0 — Documentos
+3.0 — REST API’s
+4.0 — Nós
+5.0 — Shards e Replicas
+6.0 — Mapeamento
+7.0 — Buscas
+8.0 — Agregações
+9.0 — Ingestão
+10 — Analisadores
+11 — Administração de Cluster
+12 — Segurança
+
+## Logstash
+1.0 - Pipelines no Logstash
+2.0 - Filtros Input
+
+## Kibana
+
+## Beats
+1 - Filebeat
+2 - Metricbeat
+3 - Heartbeat
+
