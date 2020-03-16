@@ -40,16 +40,17 @@ Disponível no Medium, o Guia completo da Elastic Stack está organizado em seç
 * 11 — Administração de Cluster
 * 12 — Segurança
 ```
-```markdown
 **Logstash**
+```markdown
 * 1.0 - Pipelines no Logstash
 * 2.0 - Filtros Input
 ```
-```markdown
 **Kibana**
-```
 ```markdown
+```
 **Beats**
+```markdown
+
 * Filebeat
 * Metricbeat
 3 - Heartbeat
