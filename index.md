@@ -6,7 +6,7 @@ Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos d
 - Interessados em aprender sobre a Stack de ferramentas da Elastic, independente do nível de conhecimento prévio.
 
 **Objetivo** 
-- Formar pessoas com as tecnologias, desde um nível de iniciante até um nível mais avançado, trazendo os conceitos/problemas relacionados a prova de Engenheiro Certificado.
+- Quero tornar VOCÊ um expert com toda a Stack de produtos da Elastic, e ainda de quebra te preparar, caso tenha interesse, pras provas de Engenheiro Certificado.
 
 **Quem sou eu ?** 
 - Felipe Queiroz, Embaixador e Engenheiro Certificado Elastic! Se conecte comigo no [linkedin](https://www.linkedin.com/in/felipe-queiroz-b83042113/) e vamos fazer um networking :)
