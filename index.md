@@ -2,9 +2,11 @@
 
 Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos da Elastic Stack, todo em Português do Brasil.
 
-Publico Alvo: Interessados em aprender sobre a Stack de ferramentas da Elastic, independente do nível de conhecimento prévio.
+**Publico Alvo** 
+- Interessados em aprender sobre a Stack de ferramentas da Elastic, independente do nível de conhecimento prévio.
 
-Objetivo: Formar pessoas com as tecnologias, desde um nível de iniciante até um nível mais avançado, trazendo os conceitos/problemas relacionados a prova de Engenheiro Certificado.
+**Objetivo** 
+- Formar pessoas com as tecnologias, desde um nível de iniciante até um nível mais avançado, trazendo os conceitos/problemas relacionados a prova de Engenheiro Certificado.
 
 ### Como está distribuido o Material ?
 
@@ -16,7 +18,7 @@ Objetivo: Formar pessoas com as tecnologias, desde um nível de iniciante até u
 * Série - Curiosidades da Elastic (Youtube)
 ```
 
-Para mais detalhes, acessar a página individual de cada mini-projeto abaixo!
+Mais detalhes abaixo:
 
 ### [O Guia Completo da Elastic Stack - Documentação](https://medium.com/@fqueirooz80/o-guia-completo-da-elastic-stack-5a3ba9a84a85)  
 
