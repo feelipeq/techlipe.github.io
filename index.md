@@ -51,7 +51,7 @@ Disponível no Medium, o Guia completo da Elastic Stack está organizado em seç
 **Beats**
 ```markdown
 
-* Filebeat
-* Metricbeat
-3 - Heartbeat
+* 1.0 - Filebeat
+* 2.0 - Metricbeat
+* 3.0 - Heartbeat
 ```
