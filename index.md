@@ -18,7 +18,7 @@ Objetivo: Formar pessoas com as tecnologias, desde um nível de iniciante até u
 
 Para mais detalhes, acessar a página individual de cada mini-projeto abaixo!
 
-### [O Guia Completo da Elastic Stack - Documentação] (https://medium.com/@fqueirooz80/o-guia-completo-da-elastic-stack-5a3ba9a84a85)  
+### [O Guia Completo da Elastic Stack - Documentação](https://medium.com/@fqueirooz80/o-guia-completo-da-elastic-stack-5a3ba9a84a85)  
 
 Disponível no Medium, o Guia completo da Elastic Stack está organizado em seções divididos da seguinte forma:
 
