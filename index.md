@@ -11,6 +11,10 @@ Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos d
 **Quem sou eu ?** 
 - Felipe Queiroz, Embaixador e Engenheiro Certificado Elastic! Se conecte comigo no [linkedin](https://www.linkedin.com/in/felipe-queiroz-b83042113/) e vamos fazer um networking :)
 
+**Plataformas**
+- [Tech Lipe - Youtube](https://www.youtube.com/channel/UCS1MViu60VUorm217VoqTEQ/)
+- [Tech Lipe - Medium)(https://medium.com/@fqueirooz80)
+
 ### Como está distribuido o Material ?
 
 ```markdown
@@ -21,6 +25,7 @@ Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos d
 ```
 
 Mais detalhes abaixo:
+
 
 ### [O Guia Completo da Elastic Stack - Documentação](https://medium.com/@fqueirooz80/o-guia-completo-da-elastic-stack-5a3ba9a84a85)
 
