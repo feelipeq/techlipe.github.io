@@ -18,10 +18,10 @@ Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos d
 ### Como está distribuido o Material ?
 
 ```markdown
-* Documentação em formato de artigos no medium
-* Série - Rasgando o Bit com Elastic (Youtube)
-* Série - Resolvendo problemas com Elastic (Youtube)
-* Série - Curiosidades da Elastic (Youtube)
+- Documentação em formato de artigos no medium
+- Série - Rasgando o Bit com Elastic (Youtube)
+- Série - Resolvendo problemas com Elastic (Youtube)
+- Série - Curiosidades da Elastic (Youtube)
 ```
 
 Mais detalhes abaixo:
