@@ -12,8 +12,8 @@ Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos d
 - Felipe Queiroz, Embaixador e Engenheiro Certificado Elastic! Se conecte comigo no [linkedin](https://www.linkedin.com/in/felipe-queiroz-b83042113/) e vamos fazer um networking :)
 
 **Plataformas**
-- [Tech Lipe - Youtube](https://www.youtube.com/channel/UCS1MViu60VUorm217VoqTEQ/)
-- [Tech Lipe - Medium)(https://medium.com/@fqueirooz80)
+- [Youtube - Tech Lipe](https://www.youtube.com/channel/UCS1MViu60VUorm217VoqTEQ/)
+- [Medium - Tech Lipe](https://medium.com/@fqueirooz80)
 
 ### Como está distribuido o Material ?
 
