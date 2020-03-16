@@ -25,7 +25,7 @@ Mais detalhes abaixo:
 Disponível no Medium, o Guia completo da Elastic Stack está organizado em seções divididos da seguinte forma:
 
 **Elasticsearch**
-
+```markdown
 * 0.0 — Artigos de Apoio
 * 1.0 — Introdução e Índices
 * 2.0 — Documentos
@@ -50,4 +50,4 @@ Disponível no Medium, o Guia completo da Elastic Stack está organizado em seç
 * Filebeat
 * Metricbeat
 3 - Heartbeat
-
+```
