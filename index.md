@@ -20,7 +20,7 @@ Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos d
 
 Mais detalhes abaixo:
 
-### [O Guia Completo da Elastic Stack - Documentação](https://medium.com/@fqueirooz80/o-guia-completo-da-elastic-stack-5a3ba9a84a85)  
+### [O Guia Completo da Elastic Stack - Documentação][!alt](https://medium.com/@fqueirooz80/o-guia-completo-da-elastic-stack-5a3ba9a84a85)  
 
 Disponível no Medium, o Guia completo da Elastic Stack está organizado em seções divididos da seguinte forma:
 
