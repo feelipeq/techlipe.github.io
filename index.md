@@ -8,8 +8,10 @@ Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos d
 **Objetivo** 
 - Formar pessoas com as tecnologias, desde um nível de iniciante até um nível mais avançado, trazendo os conceitos/problemas relacionados a prova de Engenheiro Certificado.
 
-### Como está distribuido o Material ?
+**Quem sou eu ?** 
+- Felipe Queiroz, Embaixador e Engenheiro Certificado Elastic! Se conecte comigo no [linkedin](https://www.linkedin.com/in/felipe-queiroz-b83042113/) e vamos fazer um networking :)
 
+### Como está distribuido o Material ?
 
 ```markdown
 * Documentação em formato de artigos no medium
@@ -64,3 +66,15 @@ Vídeos em formato mini-aula cujo objetivo é resolver ou responder alguns cases
 
 ### [Curiosidades Elastic - Youtube - Em construção]()
 Nessa série, discutiremos as mudanças, aquisições, material de eventos e futuro da Elastic Stack. 
+
+
+
+### Suporte
+
+Atualizações serão feitas nessa página, mas deixo aqui o meu email a disposição para atender qualquer eventual dúvida sua e te apoiar na sua jornada!
+
+fqueirooz80@gmail.com
+
+Abraços! 
+You Know, for Search
+
