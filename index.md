@@ -20,7 +20,7 @@ Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos d
 
 Mais detalhes abaixo:
 
-### [O Guia Completo da Elastic Stack - Documentação](https://medium.com/@fqueirooz80/o-guia-completo-da-elastic-stack-5a3ba9a84a85){:target="_blank"} 
+### [O Guia Completo da Elastic Stack - Documentação](https://medium.com/@fqueirooz80/o-guia-completo-da-elastic-stack-5a3ba9a84a85)
 
 Disponível no Medium, o Guia completo da Elastic Stack está organizado em seções divididos da seguinte forma:
 
@@ -55,3 +55,12 @@ Disponível no Medium, o Guia completo da Elastic Stack está organizado em seç
 * 2.0 - Metricbeat
 * 3.0 - Heartbeat
 ```
+
+### [Rasgando o Bit com Elastic - Youtube](https://www.youtube.com/playlist?list=PLOxUmBlyr2_6p0NbPaTmDU6sClaQBHNsz)
+Série de vídeos em formato de tutorial/curso que tem como objetivo ser um complemento visual e mais didático ao material documentado nos artigos acima. O objetivo é passar a visão técnica dos componentes e ir gradativamente aumentando o nível de complexidade dos temas.
+
+### [Resolvendo problemas com a Elastic Stack  - Youtube - Em construção]()
+Vídeos em formato mini-aula cujo objetivo é resolver ou responder alguns cases práticos reais utilizando os conhecimentos técnicos que foram abordados nas séries acima.
+
+### [Curiosidades Elastic - Youtube - Em construção]()
+Nessa série, discutiremos as mudanças, aquisições, material de eventos e futuro da Elastic Stack. 
