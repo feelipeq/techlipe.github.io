@@ -1,3 +1,6 @@
+
+
+![TL](banner-tl.png)
 ## Guia Completo da Elastic Stack
 
 Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos da Elastic _Stack_, todo em Português do Brasil.
